@@ -1,0 +1,32 @@
+.thtctMtrs {
+    width: 200px;
+    top: 70px;
+    position: absolute;
+    list-style: none;
+    text-align: start;
+}
+
+.thtctMtrs li {
+    background: #49f;
+    cursor: pointer;
+}
+
+.thtctMtrs li a:hover {
+    background: rgb(115, 172, 243);
+}
+
+.thtcMtrsClicked  {
+    display: none;
+}
+
+
+.subMenuItem {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    font-size: 21px;
+    padding: 8px;
+}
+
