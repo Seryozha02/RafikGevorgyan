@@ -20,18 +20,8 @@ import png48 from "../images/png48.png";
 
 function TwoPointOne() {
     return (
-        <div>
-        <p style={{ fontWeight: "bold", textAlign: "center" }}>ԳԼՈՒԽ 2</p>
-        <h3 style={{ textAlign: "center" }}>
-          Միջին դպրոցում գծային հավասարումների համակարգերի լուծման
-          առանձնահատկությունները թեմայի կիրառումն ու ուսուցումը
-        </h3>
-        <br />
+        <div className="phtcPage">
         <div className="twoPointOne">
-          <h4>
-            2.1 Տիպային վարժությունների լուծումներ՝ բացատրություններով,
-            ցուցումներ:
-          </h4>
           <text className="SecondChapterTexts">
             <p>
               <b>Գծային հավասարումների համակարգեր</b>

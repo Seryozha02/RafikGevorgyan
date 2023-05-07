@@ -1,43 +1,67 @@
 .allTogether {
+    background-image: url("../images/aboutImg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.bothCards {
+    display: flex;
+    flex-direction: row;
+    column-gap: 150px;
+    justify-content: center;
+    padding-top: 1%;     
+    text-align: center;
+}
+
+.allTogether {
     display: flex;
     flex-direction: column;
-    row-gap: 30px;
+    row-gap: 5px;
 }
 
 .aboutPageRF {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    row-gap: 20px;
+    row-gap: 40px;
 }
 
 .aboutPageRF p {
-    font-size: 25px;
+    font-size: 17px;
     font-weight: bold;
 }
 
 .student {
-    width: 400px;
-    height: 450px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 230px;
+    height: 280px;
     border: 2px black solid;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
-.imageOfSTD {
-    width: 395px;
-    height: 445px;
-    border-radius: 10px;
+
+.lecturer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    width: 230px;
+    height: 280px;
+    border: 2px black solid;
+    border-radius: 20px;
 }
 
-.student p {
-    font-size: 20px;
+.imageOfSTD, .imageOfLCT {
+    width: 226px;
+    height: 220px;
+    border-radius: 20px;
 }
 
 .footerForContact {
-    display: flex;
-    flex-direction: column;
-    margin-left: 20px;
- } 
- 
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+} 

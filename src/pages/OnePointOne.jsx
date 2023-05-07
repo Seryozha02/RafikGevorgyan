@@ -24,18 +24,7 @@ import png20 from "../images/png20.png";
 function OnePointOne() {
     return(
         <div>
-      <p style={{ fontWeight: "bold", textAlign: "center" }}>ԳԼՈՒԽ 1</p>
-      <h3 style={{ textAlign: "center" }}>
-        Միջին դպրոցում գծային հավասարումների համակարգերի լուծման
-        առանևնահատկությունները
-      </h3>
-      <br />
       <div className="onePointOne">
-        <h4>
-          1․1 Միջին դպրոցում գծային հավասարումների համակարգերի լուծման
-          առանևնահատկությունները թեմային վերաբերվող եղանակներ, ընդհանուր
-          տեղեկություններ, պարզաբանումներ։
-        </h4>
         <text className="FirstChapterTexts">
           <p>
             <b>
