@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/RafikGevorgyan/static/css/main.788c2337.css",
-    "main.js": "/RafikGevorgyan/static/js/main.57e918aa.js",
+    "main.css": "/RafikGevorgyan/static/css/main.d4c5906e.css",
+    "main.js": "/RafikGevorgyan/static/js/main.b554f935.js",
     "static/js/787.f4fe86e1.chunk.js": "/RafikGevorgyan/static/js/787.f4fe86e1.chunk.js",
     "static/media/png20.png": "/RafikGevorgyan/static/media/png20.db263e35fe0d42de8c05.png",
     "static/media/png25.png": "/RafikGevorgyan/static/media/png25.5ae9186833d10838e01b.png",
     "static/media/png23.png": "/RafikGevorgyan/static/media/png23.ddeb9d6f4de53299cd0b.png",
     "static/media/png49.png": "/RafikGevorgyan/static/media/png49.9df2fa4723b9e4981dc8.png",
     "static/media/png42.png": "/RafikGevorgyan/static/media/png42.4e4a6b496f32182d0d4a.png",
-    "static/media/Rafo.jpg": "/RafikGevorgyan/static/media/Rafo.d96ef421b033789f1b2e.jpg",
+    "static/media/Rafo.jpg": "/RafikGevorgyan/static/media/Rafo.520c333ba5e1145a3cdd.jpg",
     "static/media/png50.png": "/RafikGevorgyan/static/media/png50.e0429f04404e52d63967.png",
     "static/media/png29.png": "/RafikGevorgyan/static/media/png29.c205f8ae1f9880d71ff7.png",
     "static/media/png4.png": "/RafikGevorgyan/static/media/png4.6112d42c37e9f975ae62.png",
+    "static/media/docent2.jpg": "/RafikGevorgyan/static/media/docent2.700813b2d3c931d8c973.jpg",
     "static/media/png32.png": "/RafikGevorgyan/static/media/png32.b7a2aa7cc957811a91bd.png",
     "static/media/bg.jpg": "/RafikGevorgyan/static/media/bg.21ae1484c7ec625b05ea.jpg",
+    "static/media/aboutImg.jpg": "/RafikGevorgyan/static/media/aboutImg.dc1cf9e28fd8d12573cf.jpg",
     "static/media/png41.png": "/RafikGevorgyan/static/media/png41.c533183cfc4f064a9c10.png",
     "static/media/png5.png": "/RafikGevorgyan/static/media/png5.d3da96571e05a8bdbbb9.png",
     "static/media/png28.png": "/RafikGevorgyan/static/media/png28.f541d14fa279380ef32f.png",
@@ -26,12 +28,12 @@
     "static/media/png17.png": "/RafikGevorgyan/static/media/png17.832288877b31807cb3eb.png",
     "static/media/png18.png": "/RafikGevorgyan/static/media/png18.49c99f98ec844953f74a.png",
     "index.html": "/RafikGevorgyan/index.html",
-    "main.788c2337.css.map": "/RafikGevorgyan/static/css/main.788c2337.css.map",
-    "main.57e918aa.js.map": "/RafikGevorgyan/static/js/main.57e918aa.js.map",
+    "main.d4c5906e.css.map": "/RafikGevorgyan/static/css/main.d4c5906e.css.map",
+    "main.b554f935.js.map": "/RafikGevorgyan/static/js/main.b554f935.js.map",
     "787.f4fe86e1.chunk.js.map": "/RafikGevorgyan/static/js/787.f4fe86e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.788c2337.css",
-    "static/js/main.57e918aa.js"
+    "static/css/main.d4c5906e.css",
+    "static/js/main.b554f935.js"
   ]
 }
